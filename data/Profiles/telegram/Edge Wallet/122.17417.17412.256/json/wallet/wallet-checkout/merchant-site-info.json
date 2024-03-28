@@ -1,0 +1,18 @@
+[
+  {
+    "DomainName": "marriott.com",
+    "IsTravelSite": true
+  },
+  {
+    "DomainName": "hilton.com",
+    "IsTravelSite": true
+  },
+  {
+    "DomainName": "ihg.com",
+    "IsTravelSite": true
+  },
+  {
+    "DomainName": "hotels.com",
+    "IsTravelSite": true
+  }
+]

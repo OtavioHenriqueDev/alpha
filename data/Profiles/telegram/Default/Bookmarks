@@ -1,0 +1,52 @@
+{
+   "checksum": "2a9150d1f00b006aa9db032a4776ab16",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13356046474529666",
+            "date_last_used": "0",
+            "guid": "bddc537f-8414-4df1-82b8-3343ac458527",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "VIP LOBO (AMBAS MARCAM)",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://web.telegram.org/a/#-1002030205235"
+         } ],
+         "date_added": "13356046418572690",
+         "date_last_used": "0",
+         "date_modified": "13356046474529666",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13356046418572694",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356046418572699",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
